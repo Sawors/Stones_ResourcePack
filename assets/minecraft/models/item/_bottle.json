@@ -1,0 +1,151 @@
+{
+  "credit": "Made_by_Sawors",
+  "textures": {
+    "0": "item/potion_bottle",
+    "2": "block/oak_planks",
+    "particle": "item/potion_bottle",
+    "potion_overlay": "block/void_texture"
+    },
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        0,
+        -0.25
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        0,
+        -0.25
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0.5,
+        4.25,
+        1
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0.5,
+        4.25,
+        1
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        90
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ]
+    },
+    "gui": {
+      "rotation": [
+        35,
+        -37,
+        10
+      ],
+      "translation": [
+        -0.75,
+        4.25,
+        0
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    },
+    "head": {
+      "rotation": [
+        121,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        -3.5,
+        -6.5
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        -22,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        4.25,
+        -2.75
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    }
+  }
+    0,
+    {
+      "name": "bottle",
+      "origin": [
+        17,
+        15,
+        15
+      ],
+      "children": [
+        1,
+        {
+          "name": "sides",
+          "origin": [
+            13,
+            9,
+            15
+          ],
+          "children": [
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        6,
+        7,
+        {
+          "name": "neck",
+          "origin": [
+            17,
+            15,
+            15
+          ],
+          "children": [
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    12
+  ]
+}

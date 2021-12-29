@@ -1,0 +1,7 @@
+{
+	"credit": "Made by Sawors",
+	"parent": "item/instruments/_flute",
+	"textures": {
+		"0": "item/oak_flute"
+	}
+}

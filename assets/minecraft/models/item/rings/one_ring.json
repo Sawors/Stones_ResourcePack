@@ -1,0 +1,7 @@
+{
+	"parent": "item/rings/_ring",
+	"credit": "Made by Sawors",
+	"textures": {
+		"body": "item/rings/base_gold_one"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made by Sawors",
+	"parent": "item/_disc",
+	"textures": {
+		"2": "item/disc_pigstep",
+		"color": "item/music_disc_pigstep"
+	}
+}

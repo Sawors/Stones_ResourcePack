@@ -1,0 +1,37 @@
+{
+	"credit": "Made by Sawors",
+	"parent": "item/hats/_hat",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "entity/villager/profession/farmer"
+	},
+	"elements": [
+		{
+			"name": "long",
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 0], "texture": "#1"},
+				"east": {"uv": [0, 0, 8, 0], "texture": "#1"},
+				"south": {"uv": [0, 0, 8, 0], "texture": "#1"},
+				"west": {"uv": [0, 0, 8, 0], "texture": "#1"},
+				"up": {"uv": [7.75, 12, 11.75, 16], "texture": "#1"},
+				"down": {"uv": [7.75, 16, 11.75, 12], "texture": "#1"}
+			}
+		},
+		{
+			"name": "body",
+			"from": [4, 0, 4],
+			"to": [12, 4, 12],
+			"faces": {
+				"north": {"uv": [10, 2, 12, 3], "texture": "#1"},
+				"east": {"uv": [12, 2, 14, 3], "texture": "#1"},
+				"south": {"uv": [14, 2, 16, 3], "texture": "#1"},
+				"west": {"uv": [8, 2, 10, 3], "texture": "#1"},
+				"up": {"uv": [10, 0, 12, 2], "texture": "#1"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#1"}
+			}
+		}
+	],
+	"display": {}
+}

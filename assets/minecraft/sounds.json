@@ -1,0 +1,66 @@
+{
+"sawors.resonantcrystal_on": {
+    "category": "player",
+    "sounds": [
+      "resonantcrystal_on"
+    ]
+  },
+"sawors.nightbells": {
+    "category": "ambient",
+    "sounds": [
+      "nightbells"
+    ]
+  },
+"sawors.rooster": {
+    "category": "ambient",
+    "sounds": [
+      "rooster"
+    ]
+  },
+"sawors.raid_horn": {
+    "category": "player",
+    "sounds": [
+      "raid_horn"
+    ]
+  },
+"sawors.door.knock": {
+    "category": "player",
+    "sounds": [
+      "door_knock"
+    ]
+  },
+"sawors.door.knockfar": {
+    "category": "ambient",
+    "sounds": [
+      "door_knock_reverb"
+    ]
+  },
+"sawors.block.saw": {
+    "category": "block",
+    "sounds": [
+      "saw"
+    ]
+  },
+"sawors.explosive.fuse": {
+    "category": "block",
+    "sounds": [
+      "fuse_1"
+    ]
+  },
+"sawors.explosive.fusestart": {
+    "category": "block",
+    "sounds": [
+      "fuse_0"
+    ]
+  },
+"entity.arrow.hit": {
+    "category": "player",
+	"replace": "true",
+    "sounds": [
+      "arrowhit1",
+	  "arrowhit2",
+	  "arrowhit3"
+    ]
+  }
+}
+

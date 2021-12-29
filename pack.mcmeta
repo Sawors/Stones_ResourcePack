@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "§a§l3D§a Resource pack for Stones Plugin"
+  },
+  "meta": {
+    "game_version": "1.18.1"
+  }
+}

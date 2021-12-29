@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "has_record=true": [
+      {
+        "model": "block/jukebox_record",
+        "y": 0,
+        "weight": 1
+      },
+      {
+        "model": "block/jukebox_record",
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "block/jukebox_record",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "block/jukebox_record",
+        "y": 270,
+        "weight": 1
+      }
+    ],
+	"has_record=false": [
+      {
+        "model": "block/jukebox",
+        "y": 0,
+        "weight": 1
+      },
+      {
+        "model": "block/jukebox",
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "block/jukebox",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "block/jukebox",
+        "y": 270,
+        "weight": 1
+      }
+    ]
+  }
+}

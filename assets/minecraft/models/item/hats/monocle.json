@@ -1,0 +1,54 @@
+{
+	"credit": "Made by Sawors",
+	"parent": "item/hats/_hat",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "entity/villager/profession/cartographer",
+		"particle": "entity/villager/profession/cartographer"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 8.2],
+			"to": [10, 5, 8.2],
+			"faces": {
+				"north": {"uv": [11, 3.25, 12, 4.5], "texture": "#0"},
+				"south": {"uv": [12, 3.25, 11, 4.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -180, 45],
+			"translation": [2.75, 0, 5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -180, 45],
+			"translation": [3.5, 0, 5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-56, 0, 0],
+			"translation": [-0.75, 6, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-56, 0, 0],
+			"translation": [-0.75, 6, 0]
+		},
+		"ground": {
+			"translation": [0, 8, 0]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 11, -0.5],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [-3.25, 7, -7],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"fixed": {
+			"translation": [0, 11, -0.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}

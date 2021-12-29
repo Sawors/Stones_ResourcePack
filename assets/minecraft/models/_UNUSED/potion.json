@@ -1,0 +1,6 @@
+{
+  "parent": "item/glass_bottle",
+  "textures": {
+	"layer0": "item/layer0"
+  }
+}

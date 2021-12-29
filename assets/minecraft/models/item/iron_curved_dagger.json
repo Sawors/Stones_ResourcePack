@@ -1,0 +1,6 @@
+{
+  "parent": "item/_reverse",
+  "textures": {
+    "layer0": "item/iron_curved_dagger"
+  }
+}

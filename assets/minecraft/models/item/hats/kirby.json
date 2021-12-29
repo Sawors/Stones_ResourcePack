@@ -1,0 +1,61 @@
+{
+	"credit": "Made by Sawors",
+	"parent": "item/hats/_hat",
+	"texture_size": [32, 16],
+	"textures": {
+		"0": "item/hats/kirby",
+		"particle": "item/hats/kirby"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [4, 8, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 8, 4, 16], "texture": "#0"},
+				"south": {"uv": [12, 8, 16, 16], "texture": "#0"},
+				"west": {"uv": [8, 8, 12, 16], "texture": "#0"},
+				"up": {"uv": [4, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [8, 0, 12, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [68, -3, -30],
+			"translation": [3, 0.5, 17],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [68, -3, -30],
+			"translation": [3, 0.5, 17],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-29, 131, 16],
+			"translation": [2, 3.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-29, 131, 16],
+			"translation": [2, 3.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 8, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [23, -135, 0],
+			"translation": [0, 3.75, 0]
+		},
+		"head": {
+			"translation": [0, 18.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [0, 4, 2.5],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}

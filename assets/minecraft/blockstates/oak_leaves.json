@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "persistent=true,distance=7": [
+		{ "model": "block/plants/oak_bush" },
+		{ "model": "block/plants/oak_bush_h" },
+		{ "model": "block/plants/oak_bush_2" },
+		{ "model": "block/plants/oak_bush_2h" },
+		{ "model": "block/plants/oak_bush_3" },
+		{ "model": "block/plants/oak_bush_3h" }
+		]
+    }
+}

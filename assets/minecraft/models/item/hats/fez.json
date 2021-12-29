@@ -1,0 +1,35 @@
+{
+	"credit": "Made by Sawors",
+	"parent": "item/hats/_hat",
+	"textures": {
+		"1": "item/hats/fez"
+	},
+	"elements": [
+		{
+			"from": [6, 3, 6],
+			"to": [10, 7, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"east": {"uv": [12, 0, 16, 4], "texture": "#1"},
+				"south": {"uv": [4, 0, 8, 4], "texture": "#1"},
+				"west": {"uv": [8, 0, 12, 4], "texture": "#1"},
+				"up": {"uv": [0, 4, 4, 8], "texture": "#1"},
+				"down": {"uv": [4, 4, 8, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 2, 8],
+			"to": [8, 8, 8],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [6, 7, 8]},
+			"faces": {
+				"north": {"uv": [8, 8, 14, 4], "rotation": 90, "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"south": {"uv": [8, 4, 14, 8], "rotation": 90, "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 4], "texture": "#1"},
+				"up": {"uv": [0, 0, 4, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 4, 0], "texture": "#1"}
+			}
+		}
+	]
+}

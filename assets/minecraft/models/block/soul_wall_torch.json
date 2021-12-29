@@ -1,0 +1,9 @@
+{
+  "credit": "Made_by_Sawors",
+  "parent": "minecraft:block/_torch_wall",
+  "textures": {
+    "torch": "block/soul_torch",
+    "flame": "block/soul_flame",
+	"stick": "block/blackstone"
+  }
+}

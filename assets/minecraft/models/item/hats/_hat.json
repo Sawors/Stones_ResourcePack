@@ -1,0 +1,47 @@
+{
+	"credit": "Made by Sawors",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/air",
+		"particle": "item/air"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-165, 23, -23],
+			"translation": [1.5, -3.75, 0.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-165, 23, -23],
+			"translation": [1.5, -3.75, 0.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-165, 23, -23],
+			"translation": [1.5, -3.75, 0.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-165, 23, -23],
+			"translation": [1.5, -3.75, 0.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"translation": [0, 8, 0]
+		},
+		"gui": {
+			"rotation": [23, 23, 0],
+			"translation": [0.25, 5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [0, 16.75, 0],
+			"scale": [1.9, 1.9, 1.9]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -8.25]
+		}
+	}
+}
