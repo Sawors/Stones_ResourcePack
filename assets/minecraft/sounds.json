@@ -53,6 +53,42 @@
       "fuse_0"
     ]
   },
+ "sawors.instrument.doublebass": {
+    "category": "record",
+    "sounds": [
+      "doublebass"
+    ]
+  },
+  "sawors.instrument.harp": {
+    "category": "record",
+    "sounds": [
+      "harp"
+    ]
+  },
+  "sawors.instrument.koto": {
+    "category": "record",
+    "sounds": [
+      "koto"
+    ]
+  },
+  "sawors.instrument.oud": {
+    "category": "record",
+    "sounds": [
+      "oud"
+    ]
+  },
+  "sawors.instrument.panflute": {
+    "category": "record",
+    "sounds": [
+      "panflute"
+    ]
+  },
+  "sawors.instrument.sitar": {
+    "category": "record",
+    "sounds": [
+      "sitar"
+    ]
+  },
 "entity.arrow.hit": {
     "category": "player",
 	"replace": "true",
