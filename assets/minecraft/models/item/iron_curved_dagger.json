@@ -1,5 +1,5 @@
 {
-  "parent": "item/_reverse",
+  "parent": "item/handheld_reverse",
   "textures": {
     "layer0": "item/iron_curved_dagger"
   }
