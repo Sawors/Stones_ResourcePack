@@ -1,0 +1,48 @@
+{
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "board",
+			"id": "board",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0],
+			"boxes": [
+				{
+					"coordinates": [-11.9, 13.7, -1.1, 23.8, 12, 3],
+					"uvEast": [0, 2, 2, 10],
+					"uvSouth": [18, 2, 34, 10],
+					"uvWest": [34, 2, 36, 10]
+				},
+				{
+					"coordinates": [-12, 25.7, -1.1, 24, 0, 3],
+					"uvUp": [18, 2, 2, 0]
+				},
+				{
+					"coordinates": [-12, 13.7, -1.1, 24, 0, 3],
+					"uvDown": [34, 0, 18, 2]
+				},
+				{
+					"coordinates": [-12, 13.7, -1.1, 24, 12, 0],
+					"uvNorth": [2, 2, 18, 10]
+				}
+			]
+		},
+		{
+			"part": "stick",
+			"id": "stick",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0],
+			"boxes": [
+				{
+					"coordinates": [-1.5, 0, -1.1, 3, 13.7, 3],
+					"uvNorth": [2, 16, 4, 25],
+					"uvEast": [0, 16, 2, 25],
+					"uvSouth": [6, 16, 8, 25],
+					"uvWest": [4, 16, 6, 25],
+					"uvUp": [4, 16, 2, 14],
+					"uvDown": [6, 14, 4, 16]
+				}
+			]
+		}
+	]
+}

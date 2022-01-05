@@ -89,6 +89,12 @@
       "sitar"
     ]
   },
+  "sawors.instrument.molophone": {
+    "category": "record",
+    "sounds": [
+      "molophone"
+    ]
+  },
 "entity.arrow.hit": {
     "category": "player",
 	"replace": "true",
