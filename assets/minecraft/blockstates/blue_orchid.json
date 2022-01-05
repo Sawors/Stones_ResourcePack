@@ -2,22 +2,22 @@
   "variants": {
     "": [
       {
-        "model": "block/poppy",
+        "model": "block/blue_orchid",
         "y": 0,
         "weight": 1
       },
       {
-        "model": "block/poppy",
+        "model": "block/blue_orchid",
         "y": 90,
         "weight": 1
       },
       {
-        "model": "block/poppy",
+        "model": "block/blue_orchid",
         "y": 180,
         "weight": 1
       },
       {
-        "model": "block/poppy",
+        "model": "block/blue_orchid",
         "y": 270,
         "weight": 1
       }

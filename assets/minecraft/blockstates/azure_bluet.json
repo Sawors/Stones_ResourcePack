@@ -2,22 +2,22 @@
   "variants": {
     "": [
       {
-        "model": "block/poppy",
+        "model": "block/azure_bluet",
         "y": 0,
         "weight": 1
       },
       {
-        "model": "block/poppy",
+        "model": "block/azure_bluet",
         "y": 90,
         "weight": 1
       },
       {
-        "model": "block/poppy",
+        "model": "block/azure_bluet",
         "y": 180,
         "weight": 1
       },
       {
-        "model": "block/poppy",
+        "model": "block/azure_bluet",
         "y": 270,
         "weight": 1
       }
