@@ -1,0 +1,40 @@
+{
+	"credit": "Made by Sawors",
+	"elements": [
+		{
+			"from": [7.5, 0, 7.5],
+			"to": [8.5, 6, 8.5],
+			"color": 2,
+			"faces": {
+				"north": {"uv": [0, 0, 1, 6], "texture": "#missing"},
+				"east": {"uv": [0, 0, 1, 6], "texture": "#missing"},
+				"south": {"uv": [0, 0, 1, 6], "texture": "#missing"},
+				"west": {"uv": [0, 0, 1, 6], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [7, 6, 7],
+			"to": [9, 18, 9],
+			"color": 2,
+			"faces": {
+				"north": {"uv": [1, 2, 3, 14], "texture": "#missing"},
+				"east": {"uv": [1, 2, 3, 14], "texture": "#missing"},
+				"south": {"uv": [1, 2, 3, 14], "texture": "#missing"},
+				"west": {"uv": [1, 2, 3, 14], "texture": "#missing"},
+				"up": {"uv": [1, 0, 3, 2], "texture": "#missing"},
+				"down": {"uv": [1, 14, 3, 16], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [6, 7, 7],
+			"to": [10, 17, 7],
+			"color": 2,
+			"faces": {
+				"north": {"uv": [0, 2, 4, 12], "texture": "#missing"},
+				"south": {"uv": [4, 2, 0, 12], "texture": "#missing"}
+			}
+		}
+	]
+}
