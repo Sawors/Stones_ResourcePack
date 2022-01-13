@@ -95,6 +95,12 @@
       "molophone"
     ]
   },
+  "sawors.weapons.sword.draw": {
+    "category": "player",
+    "sounds": [
+      "sword_draw"
+    ]
+  },
 "entity.arrow.hit": {
     "category": "player",
 	"replace": "true",
