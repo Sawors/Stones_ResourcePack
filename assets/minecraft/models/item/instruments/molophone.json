@@ -1,0 +1,72 @@
+{
+	"credit": "Made by Sawors",
+	"parent": "item/instruments/oak_flute",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/molophone"
+	},
+	"elements": [
+		{
+			"from": [6, 13, 6],
+			"to": [10, 21, 10],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 9, 4]},
+			"faces": {
+				"north": {"uv": [0, 6, 4, 8], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 2, 4, 4], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 4, 4, 6], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [4, 2, 0, 4], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 0, 2, 2], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 5, 4],
+			"to": [12, 13, 12],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 9, 4]},
+			"faces": {
+				"north": {"uv": [4, 12, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 12, 4, 16], "texture": "#0"},
+				"south": {"uv": [12, 12, 16, 16], "texture": "#0"},
+				"west": {"uv": [8, 12, 12, 16], "texture": "#0"},
+				"up": {"uv": [4, 8, 8, 12], "texture": "#0"},
+				"down": {"uv": [8, 8, 12, 12], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67.5, -22.5, 22.5],
+			"translation": [1, 1, -0.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67.5, -22.5, 22.5],
+			"translation": [1, 1, -0.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [50, -37, 27],
+			"translation": [-2.5, -4, -2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [50, -37, 27],
+			"translation": [-2.5, -4, -2]
+		},
+		"ground": {
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [22, 135, 0],
+			"translation": [-0.25, -3.5, -0.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"translation": [0, -5.5, -14]
+		},
+		"fixed": {
+			"rotation": [9, 0, 0],
+			"translation": [0.25, -10, -6.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}
