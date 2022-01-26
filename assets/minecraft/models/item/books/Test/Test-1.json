@@ -1,7 +1,0 @@
-{
-	"credit": "Made by Sawors",
-	"parent": "item/_book_open",
-	"textures": {
-		"content": "item/books/Test/Test-1"
-	}
-}

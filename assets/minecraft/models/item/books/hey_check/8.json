@@ -1,0 +1,8 @@
+{
+	"credit": "Made by Sawors",
+	"parent": "item/_book_open",
+	"textures": {
+		"book": "item/books/hey_check/_cover",
+		"content": "item/books/hey_check/8"
+	}
+}
