@@ -3,7 +3,6 @@
 	"parent": "block/_flower",
 	"textures": {
 		"0": "block/lily_of_the_valley",
-		"1": "block/flower_dirt",
 		"particle": "block/lily_of_the_valley"
 	},
 	"elements": [
@@ -136,35 +135,6 @@
 				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
 				"down": {"uv": [0, 0, 2, 2], "texture": "#0"}
 			}
-		},
-		{
-			"from": [6, -4, 6],
-			"to": [10, -0.1, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.05385, 5.06538, 7.11285]},
-			"faces": {
-				"north": {"uv": [0, 0, 4, 4], "texture": "#1"},
-				"east": {"uv": [8, 0, 12, 4], "texture": "#1"},
-				"south": {"uv": [12, 0, 16, 4], "texture": "#1"},
-				"west": {"uv": [12, 0, 16, 4], "texture": "#1"},
-				"up": {"uv": [4, 0, 8, 4], "texture": "#1"},
-				"down": {"uv": [8, 0, 12, 4], "texture": "#1"}
-			}
-		},
-		{
-			"from": [4, -9, 8],
-			"to": [12, -0.1, 8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.05385, 5.06538, 7.11285]},
-			"faces": {
-				"north": {"uv": [0, 7, 8, 15.9], "texture": "#1"}
-			}
-		},
-		{
-			"from": [8, -9, 4],
-			"to": [8, -0.1, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8.05385, 5.06538, 7.11285]},
-			"faces": {
-				"west": {"uv": [8, 7, 16, 15.9], "texture": "#1"}
-			}
 		}
 	],
 	"groups": [
@@ -179,12 +149,6 @@
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [5, 6, 7, 8, 9]
-		},
-		{
-			"name": "group",
-			"origin": [8, -4.55, 8],
-			"color": 0,
-			"children": [10, 11, 12]
 		}
 	]
 }

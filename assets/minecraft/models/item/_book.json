@@ -161,7 +161,7 @@
 			"scale": [1.25, 1.25, 1.25]
 		},
 		"head": {
-			"translation": [0, -28, 0],
+			"translation": [0, -19.5, 0],
 			"scale": [2.3, 2.3, 2.3]
 		},
 		"fixed": {

@@ -2,7 +2,6 @@
 	"credit": "Made by Sawors",
 	"parent": "block/_flower",
 	"textures": {
-		"2": "block/flower_dirt",
 		"particle": "block/hay_block_top"
 	},
 	"elements": [
@@ -122,33 +121,6 @@
 				"up": {"uv": [0, 0, 1, 1], "rotation": 90, "texture": "#1"},
 				"down": {"uv": [0, 0, 1, 1], "rotation": 270, "texture": "#1"}
 			}
-		},
-		{
-			"from": [6, -4, 6],
-			"to": [10, -0.1, 10],
-			"faces": {
-				"north": {"uv": [0, 0, 4, 4], "texture": "#2"},
-				"east": {"uv": [8, 0, 12, 4], "texture": "#2"},
-				"south": {"uv": [12, 0, 16, 4], "texture": "#2"},
-				"west": {"uv": [12, 0, 16, 4], "texture": "#2"},
-				"up": {"uv": [4, 0, 8, 4], "texture": "#2"},
-				"down": {"uv": [8, 0, 12, 4], "texture": "#2"}
-			}
-		},
-		{
-			"from": [4, -9, 8],
-			"to": [12, -0.1, 8],
-			"faces": {
-				"north": {"uv": [0, 7, 8, 15.9], "texture": "#2"}
-			}
-		},
-		{
-			"from": [8, -9, 4],
-			"to": [8, -0.1, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -4.55, 8]},
-			"faces": {
-				"west": {"uv": [8, 7, 16, 15.9], "texture": "#2"}
-			}
 		}
 	],
 	"groups": [
@@ -175,12 +147,6 @@
 			"origin": [8, 5.5, 8],
 			"color": 0,
 			"children": [7, 8]
-		},
-		{
-			"name": "group",
-			"origin": [8, -4.55, 8],
-			"color": 0,
-			"children": [9, 10, 11]
 		}
 	]
 }
