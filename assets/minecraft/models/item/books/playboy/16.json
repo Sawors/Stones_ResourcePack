@@ -1,8 +1,0 @@
-{
-	"credit": "Made by Sawors",
-	"parent": "item/_book_open",
-	"textures": {
-		"book": "item/books/playboy/_cover",
-		"content": "item/books/playboy/16"
-	}
-}

@@ -1,7 +1,0 @@
-{
-	"credit": "Made by Sawors",
-	"parent": "item/_book",
-	"textures": {
-		"book" : "item/books/playboy/_cover"
-	}
-}

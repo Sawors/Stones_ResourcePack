@@ -1,0 +1,23 @@
+{
+    "parent": "item/_compass",
+    "overrides": [
+        { "predicate": { "angle": 0.000000 }, "model": "item/compass_N" },
+        { "predicate": { "angle": 0.015625 }, "model": "item/compass_NNE" },
+        { "predicate": { "angle": 0.078125 }, "model": "item/compass_NE" },
+        { "predicate": { "angle": 0.140625 }, "model": "item/compass_ENE" },
+        { "predicate": { "angle": 0.203125 }, "model": "item/compass_E" },
+        { "predicate": { "angle": 0.265625 }, "model": "item/compass_ESE" },
+        { "predicate": { "angle": 0.328125 }, "model": "item/compass_SE" },
+        { "predicate": { "angle": 0.390625 }, "model": "item/compass_SSE" },
+        { "predicate": { "angle": 0.453125 }, "model": "item/compass_S" },
+        { "predicate": { "angle": 0.515625 }, "model": "item/compass_SSW" },
+        { "predicate": { "angle": 0.578125 }, "model": "item/compass_SW" },
+        { "predicate": { "angle": 0.640625 }, "model": "item/compass_WSW" },
+        { "predicate": { "angle": 0.703125 }, "model": "item/compass_W" },
+        { "predicate": { "angle": 0.765625 }, "model": "item/compass_WNW" },
+        { "predicate": { "angle": 0.828125 }, "model": "item/compass_NW" },
+        { "predicate": { "angle": 0.890625 }, "model": "item/compass_NNW" },
+        { "predicate": { "angle": 0.953125 }, "model": "item/compass_N" },
+        { "predicate": { "angle": 0.984375 }, "model": "item/compass_N" }
+    ]
+}
