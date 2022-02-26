@@ -101,6 +101,24 @@
       "sword_draw"
     ]
   },
+  "sawors.noot": {
+    "category": "block",
+    "sounds": [
+      "noot"
+    ]
+  },
+  "sawors.siege.cannon.shoot": {
+    "category": "block",
+    "sounds": [
+      "cannon_shoot"
+    ]
+  },
+  "sawors.deaf": {
+    "category": "player",
+    "sounds": [
+      "deaf"
+    ]
+  },
 "entity.arrow.hit": {
     "category": "player",
 	"replace": "true",
