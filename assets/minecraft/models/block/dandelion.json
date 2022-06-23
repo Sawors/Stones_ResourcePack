@@ -20,53 +20,37 @@
 			}
 		},
 		{
-			"from": [8, 5.5, 6],
-			"to": [11, 5.5, 10],
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [9, 5.4, 8]},
+			"from": [8, 5.75, 6],
+			"to": [11, 5.75, 10],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 5.75, 8]},
 			"faces": {
-				"north": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"east": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"south": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"west": {"uv": [7, 8, 9, 9], "texture": "#0"},
 				"up": {"uv": [6, 7, 10, 10], "rotation": 90, "texture": "#0"},
 				"down": {"uv": [6, 7, 10, 10], "rotation": 90, "texture": "#0"}
 			}
 		},
 		{
-			"from": [6, 5.5, 5],
-			"to": [10, 5.5, 8],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 5.4, 7]},
+			"from": [6, 5.75, 5],
+			"to": [10, 5.75, 8],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 5.75, 8]},
 			"faces": {
-				"north": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"east": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"south": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"west": {"uv": [7, 8, 9, 9], "texture": "#0"},
 				"up": {"uv": [6, 7, 10, 10], "texture": "#0"},
 				"down": {"uv": [6, 7, 10, 10], "rotation": 180, "texture": "#0"}
 			}
 		},
 		{
-			"from": [6, 5.5, 8],
-			"to": [10, 5.5, 11],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 5.4, 9]},
+			"from": [6, 5.75, 8],
+			"to": [10, 5.75, 11],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 5.75, 8]},
 			"faces": {
-				"north": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"east": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"south": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"west": {"uv": [7, 8, 9, 9], "texture": "#0"},
 				"up": {"uv": [6, 7, 10, 10], "rotation": 180, "texture": "#0"},
 				"down": {"uv": [6, 7, 10, 10], "texture": "#0"}
 			}
 		},
 		{
-			"from": [5, 5.5, 6],
-			"to": [8, 5.5, 10],
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [7, 5.4, 8]},
+			"from": [5, 5.75, 6],
+			"to": [8, 5.75, 10],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 5.75, 8]},
 			"faces": {
-				"north": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"east": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"south": {"uv": [7, 8, 9, 9], "texture": "#0"},
-				"west": {"uv": [7, 8, 9, 9], "texture": "#0"},
 				"up": {"uv": [6, 7, 10, 10], "rotation": 270, "texture": "#0"},
 				"down": {"uv": [6, 7, 10, 10], "rotation": 270, "texture": "#0"}
 			}
